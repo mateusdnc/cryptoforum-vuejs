@@ -24,5 +24,16 @@
 				</p>
 			</div>
 		</div>
+
+		<short_news />
 	</div>
 </template>
+<script>
+import short_news from "../components/short_news.vue";
+
+export default {
+	components: {
+		short_news: short_news,
+	},
+};
+</script>
