@@ -1,0 +1,9 @@
+<template>
+	<div class="col m-5">
+	<h3 class="text-center my-2">Um pouco de nossa história</h3>
+
+		<h5> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec efficitur arcu. Curabitur tincidunt id elit eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla finibus leo id ornare consequat. Phasellus vitae elit eget risus ornare malesuada eget quis justo. Proin eu est metus. Vestibulum quam libero, posuere at nibh nec, blandit fringilla ipsum. Pellentesque hendrerit commodo erat, nec lobortis risus fermentum feugiat. Donec euismod eleifend blandit. Morbi a accumsan magna, sit amet dictum sapien. Quisque bibendum velit ac aliquet suscipit. In mollis erat augue, id vulputate nisi elementum eget. Duis dictum interdum sapien quis vestibulum. Aliquam erat volutpat. Suspendisse vulputate ex ac ipsum lobortis cursus fermentum sit amet metus. Suspendisse a accumsan nulla.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent consectetur augue eu leo viverra, sed commodo ligula dapibus. Suspendisse vehicula ante a lacus consectetur hendrerit. Maecenas ac lacus vehicula ligula lobortis bibendum. Curabitur tincidunt neque eget tristique tincidunt. Donec aliquam sit amet turpis vel aliquam. Curabitur eros lorem, elementum et leo et, tincidunt faucibus augue. Pellentesque tincidunt, ex at accumsan sagittis, turpis turpis scelerisque arcu, nec accumsan turpis ligula in ligula. Vestibulum ultricies ac odio sed finibus. Vivamus non vehicula enim. Curabitur interdum molestie tortor, eget tristique augue suscipit in. Nullam ut sagittis lectus. Aenean pretium risus sed dui feugiat, et dictum mi congue. Aenean nibh nisl, placerat sed lorem vitae, condimentum tempor velit. Ut lobortis odio at nisl semper fermentum. Vivamus placerat efficitur mauris non vestibulum. </h5>
+</div>
+</template>

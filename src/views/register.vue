@@ -1,6 +1,6 @@
 <template>
 	<!-- Email -->
-	<h3 class="text-center my-2">Bem vindo de Volta</h3>
+	<h3 class="text-center my-2">Crie uma conta</h3>
 	<form class="col-sm-5 mx-auto">
 		<div class="form-group">
 			<label for="exampleInputEmail1">Email</label>
@@ -9,25 +9,34 @@
 				class="form-control"
 				id="exampleInputEmail1"
 				aria-describedby="emailHelp"
-				placeholder="Enter email"
+				placeholder="Digite o email"
 			/>
 		</div>
 		<div class="form-group">
-			<label for="exampleInputPassword1">Password</label>
+			<label for="exampleInputPassword1">Senha</label>
 			<input
 				type="password"
 				class="form-control"
 				id="exampleInputPassword1"
-				placeholder="Password"
+				placeholder="Digite a senha"
+			/>
+		</div>
+		<div class="form-group">
+			<label for="exampleInputPassword1">Confirme a senha</label>
+			<input
+				type="password"
+				class="form-control"
+				id="exampleInputPassword1"
+				placeholder="Confirme a senha"
 			/>
 		</div>
 		<p>
-			Não tem uma conta?
-			<router-link to="/register" tag="a">Cadastre-se</router-link>
+			Ja possui uma conta?
+			<router-link to="/login" tag="a">Faça Login</router-link>
 		</p>
 
 		<button type="submit" class="btn btn-primary my-3 mx-auto d-block">
-			Entrar
+			Registrar
 		</button>
 	</form>
 </template>
